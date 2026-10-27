@@ -19,7 +19,6 @@ A real-time analytics pipeline designed to process database changes and deliver 
 
 **Architecture:** PostgreSQL → Debezium → Kafka → Spark Structured Streaming → ClickHouse → Superset
 
-[View Repository](https://github.com/hodamounaouir/Projet1-Tableau-de-bord-temps-reel-des-ventes-avec-CDC)
 
 ### 🔹 Multilingual AI Assistant
 A multilingual conversational assistant combining intent classification, language detection, and a fine-tuned language model.
